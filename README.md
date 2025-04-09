@@ -2012,6 +2012,6 @@ If this repo helped you, give it a ⭐ and share it with others!
 
 ---
 
-Created by [Rakesh Singh Bajetha](https://github.com/your-profile) for the **Edubrotech** YouTube channel.
+Created by [Rakesh Singh Bajetha](https://github.com/edubrotech) for the **Edubrotech** YouTube channel.
 
 > "Knowledge shared is knowledge squared!" 🚀
