@@ -59,8 +59,6 @@ This repository contains **500 MySQL query-related interview questions and answe
 50. [Monitoring & Maintenance (481–490)](#50-monitoring--maintenance-481490)
 51. [Advanced & Scenario-Based (491–500)](#51-advanced--scenario-based-491500)
 
-*(Note: The Table of Contents was auto-generated based on the provided text. Some categories appear duplicated or out of sequence, and many lack specific question ranges in the original text. You may need to manually review and adjust the numbering, ranges, category names, and links for accuracy and logical flow.)*
-
 ---
 
  ### 1. Basic SQL Queries (1–50)
@@ -95,7 +93,7 @@ A: `SELECT * FROM table WHERE LOWER(column) = 'value';`
 **Q: How to get the current date?**
 A: `SELECT CURDATE();`
 
-*(Questions 11-50 seem to be missing from this section in the provided text)*
+
 
 ---
 
