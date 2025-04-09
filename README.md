@@ -1,4 +1,5 @@
 # MySQL Query Interview Questions and Answers
+Created by [Rakesh Singh Bajetha](https://www.youtube.com/@edubrotech?sub_confirmation=1) for the **Edubrotech** YouTube channel.
 
 This repository contains **500 MySQL query-related interview questions and answers**. It is divided into multiple categories, covering everything from basic SQL queries to advanced MySQL architecture, performance tuning, replication, and clustering.
 
